@@ -182,6 +182,6 @@ Cybersecurity Projects
 
 📈 Progress
 
-Completed: 10 / 100
+Completed: 11/ 100
 
 This repository will be updated as I complete each project and learn new Python concepts.
